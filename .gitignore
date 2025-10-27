@@ -1,0 +1,18 @@
+# venv и кэш
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.cache/
+.dist-info/
+
+# streamlit/локальные артефакты
+.streamlit/
+storage/
+storage/**
+
+# ОС
+.DS_Store
+Thumbs.db
